@@ -1,5 +1,4 @@
-Perfect 🚀 Let’s make the README more **eye-catching** by adding relevant emojis/icons.
-Here’s the polished version:
+
 
 ---
 
@@ -172,4 +171,3 @@ Pull requests and feedback are welcome!
 
 ---
 
-Would you like me to also design a **README banner image** (like a header with “HPC Admin Suite 🚦🎮💾”) that you can add at the top of the repo for extra polish?
