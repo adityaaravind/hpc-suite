@@ -33,7 +33,7 @@ Think of it as **“Google Classroom” but for a supercomputer lab’s backend*
 
 ---
 
-## 🖥️ How it works (plain English)
+## 🖥️ How it works
 
 * 🚦 **Jobs and Queues (Slurm):**
   Imagine students lining up at the library printers. Some are printing big jobs, others small. The queue decides *who goes first*. That’s what the Slurm dashboard shows for supercomputers.
